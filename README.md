@@ -5,7 +5,7 @@
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anon_sid_og) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/siddheshmahajan47)
 
-<img src="" alt="GitHub Banner" width="100%" />
+<img src="6mh.gif" alt="Gif" width="50" />
 
 
 
