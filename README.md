@@ -1,4 +1,4 @@
-# 💫 About Me:
+<img src="" alt="GitHub Banner" width="100%" />
 🚀 Sid: Aspiring Developer Merging AI + Cybersecurity<br><br>💻 Stack: Python | PHP | JavaScript | HTML/CSS<br>🔒 Exploring: Ethical hacking, LLMs, APIs & AI innovation<br>📱 Creator: Demystifying tech for curious minds<br>🌱 Learning: Pentesting, neural networks & cloud security<br>🐙 Open-Source: Building cool stuff on GitHub<br>🎮 Game Addict: Conquering leaderboards + virtual worlds<br>☕ Fueled By: Curiosity (and endless espresso)<br>🎯 Goal: Build safer, smarter tech with AI-powered security<br><br>Let’s break code, not rules! 😎🔗
 
 
